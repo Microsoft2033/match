@@ -1,0 +1,466 @@
+    *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+
+    body{
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    overflow-y: scroll;
+    }
+   
+    .css-17ertmd {
+        box-sizing: border-box;
+        border: 0px;
+        clip: rect(0px, 0px, 0px, 0px);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0px;
+        position: absolute;
+        width: 1px;
+    }
+    .css-8dencz {
+        background-color: rgb(25, 39, 240);
+        display: flex;
+        height: 56px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        min-width: 100%;
+        max-width: 100%;
+        /* position: fixed; */
+        z-index: 200;
+        margin-top: 0px;
+        font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+        text-rendering: optimizelegibility;
+        -webkit-font-smoothing: antialiased;
+    }
+    .css-diostm {
+        fill: rgb(255, 255, 255);
+    }
+    
+    svg:not(:root) {
+        overflow-clip-margin: content-box;
+        overflow: hidden;
+    }
+    .css-1t9fapu {
+        box-sizing: border-box;
+        width: 120px;
+        display: flex;
+        -webkit-box-align: center;
+        align-items: center;
+    }
+    .css-1ycgjrs {
+        box-sizing: border-box;
+        width: 500px;
+        display: flex;
+        margin-top: 0%;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+    }
+    main {
+        display: block;
+    }
+    .css-1smfb1g {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    border: 1px solid rgb(229, 230, 230);
+    box-sizing: border-box;
+    width: 53%;
+    flex-direction: column;
+    position: relative;
+    border-radius: 16px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 10%;
+    margin-right: 0%;
+    padding: 24px;
+    }
+    .css-1kgs9an {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 376px;
+    line-height: 2rem;
+    margin-top:0px;
+    margin-bottom: 24px;
+    }
+    .css-1dclfeo{
+    font-variant-ligatures: no-contextual;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Reckless Neue", "Times New Roman", Times, serif;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    line-height: 32px;
+    padding-bottom: 4px;
+    }
+    .css-gfp6j0 {
+    font-variant-ligatures: no-contextual;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    flex-direction: row;
+    display: flex;
+    margin-top: 24px;
+    }
+    .css-1ab4c79 {
+        color: rgb(204, 4, 41);
+        font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+    }
+    .css-1rkq55w {
+        padding: 0px 20px;
+        -webkit-tap-highlight-color: transparent;
+        appearance: none;
+        background: rgb(20, 22, 81);
+        border-color: transparent;
+        border-radius: 1000px;
+        border-style: solid;
+        border-width: 1px;
+        color: rgb(255, 255, 255);
+        cursor: pointer;
+        font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+        white-space: nowrap;
+        height: 56px;
+        width: 100%;
+        box-shadow: transparent 0px 0px 0px 0px;
+        transition: box-shadow 0.2s ease-in-out 0s;
+    }
+    .css-omd3hg {
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    margin: 0px;
+    outline: 0px;
+    line-height: 20px;
+    color: rgb(64, 64, 67);
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    background: rgb(250, 250, 250);
+    border-width: 0px 0px 2px;
+    border-top-style: initial;
+    border-right-style: initial;
+    border-left-style: initial;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-radius: 8px 8px 0px 0px;
+    padding: 18px 16px 14px;
+    border-bottom-style: solid;
+    border-bottom-color: transparent;
+    width: 100%;
+    }
+    .css-1pqp4yy {
+        font-size: 14px;
+        left: 12px;
+        padding: 0px 4px;
+       position: absolute;
+       top: -10px;
+       white-space: wrap;
+    }
+    input:hover{
+        background-color: rgb(157, 152, 238);
+        border-bottom:solid blue;
+        
+    }
+   
+    input:focus,:active{
+        background-color: white;
+        border-bottom: solid blue;
+        
+    }
+   
+    label {
+        cursor: default;
+    }
+    .css-1hwvy7t .floatingLabelText {
+        color: rgb(64, 64, 67);
+    }
+    
+    
+    
+    .css-1hwvy7t {
+        color: rgb(64, 64, 67);
+        display: inline-block;
+        position: relative;
+        width: 100%;
+    }
+    .css-1e2yn3q {
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    color: rgb(255, 255, 255);
+    cursor: auto;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 100%;
+    white-space: pre;
+    }
+    .css-8atqhb {
+        width: 100%;
+    }
+    .css-1p850fz {
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px 20px;
+    -webkit-tap-highlight-color: transparent;
+    appearance: none;
+    background: rgb(9, 19, 218);
+    border-color: transparent;
+    border-radius: 1000px;
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(255, 255, 255);
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+    height: 56px;
+    width: 100%;
+    box-shadow: transparent 0px 0px 0px 0px;
+    transition: box-shadow 0.2s ease-in-out 0s;
+    }
+    .css-skxwk8 {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    flex-direction: column;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    }
+    .css-1e8cq8j {
+        box-sizing: border-box;
+        flex-direction: column;
+        display: flex;
+        line-height: 1rem;
+        margin-top: 20px;
+        margin-bottom: 32px;
+    }
+    .css-1o9vtdp {
+        -webkit-box-align: center;
+        align-items: center;
+        vertical-align: middle;
+        display: flex;
+        padding: 4px;
+    }
+    .css-n2bk09 {
+        box-sizing: border-box;
+        margin-top: 4px;
+    }
+    .css-9152mc {
+    font-variant-ligatures: no-contextual;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: rgb(64, 64, 67);
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    }
+    .css-u2er9y {
+    font-variant-ligatures: no-contextual;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: rgb(25, 39, 240);
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    }
+    .css-zee5mb {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    flex-direction: column;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin-top: 5px;
+    
+    }
+    .css-15jmpdl {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    flex-flow: column wrap;
+    height: 120px;
+    width: 50%;
+    margin-left: 13%;
+
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    }
+    .css-1ykdma4 {
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    width: 100%;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    }
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 2em;
+        margin-block-end: 2em;
+        margin-inline-start: 5px;
+        margin-inline-end: 5px;
+        padding-inline-start: 40px;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    li{
+    font-variant-ligatures: no-contextual;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+        text-align: -webkit-match-parent;
+    }
+    
+   
+    
+    .css-1rwqlqx:not(:last-child)::after {
+        content: "•";
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+   
+    
+    .css-cgn39c {
+    font-variant-ligatures: no-contextual;
+    text-rendering: optimizelegibility;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
+    box-sizing: border-box;
+    font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: -webkit-match-parent;
+
+    }
+    .css-y1z3ny {
+        color: rgb(0, 0, 5);
+        font-family: "Beausite Classic", Helvetica, Arial, sans-serif;
+        font-size: 12px;
+        word-spacing: 2px;
+        font-weight: 400;
+        line-height: 18px;
+        margin-left: 10px;
+    }
+    a, a:visited, a:active {
+        color: rgb(25, 39, 240);
+        text-decoration: none;
+    }
+    .ads{
+        width: 25%;
+        position: absolute;
+        height: 80%;
+        display: flex;
+        margin-left: 65%;
+        margin-top: 20px;
+     
+       
+    }
+    .free{
+        margin-left: 12%;
+        width: 50%;
+        border-top: 2px solid rgb(229, 230, 230);
+        margin-bottom: 3px;
+    }
+    .copy{
+      
+       margin-left: 12%;
+       width: 88%;
+       
+    
+       
+       
+       
+    }
